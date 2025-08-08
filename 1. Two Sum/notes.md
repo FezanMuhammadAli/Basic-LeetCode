@@ -1,4 +1,4 @@
-<!-- # 🧠 LeetCode Basic Problem — [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=envId=nyp0bk07)
+<!-- # 🧠 LeetCode Basic Problem — [Two Sum](https://leetcode.com/problems/two-sum)
 
 ## 📌 Problem Summary
 **Difficulty:** Easy
@@ -44,7 +44,7 @@ if (userNumber>=-1000000000 && userNumber<=1000000000)
 
 
 I was trying to implement constraints, then i find leetcode provide always valid inputs -->
-# 🧠 LeetCode Basic Problem — [Two Sum](https://leetcode.com/problems/two-sum/description/?envType=envId=nyp0bk07)
+# 🧠 LeetCode Basic Problem — [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ## 📌 Problem Summary
 
